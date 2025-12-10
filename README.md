@@ -1,4 +1,4 @@
-# Zakiya-demo
+# Omnifood
 
 This is my first Git Repository.
 <br>
