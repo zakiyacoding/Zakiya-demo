@@ -43,7 +43,12 @@ body {
 
 .test {
   background-color: red;
-  padding: 100px;
   /* width: 1000px; */
-  max-width: 1000px;
+  /* max-width: 1000px; */
+
+  max-width: 50rem;
+  padding: 4rem;
+  color: #fff;
+  font-size: 2rem;
+  /*1 rem = 16px -> 500rem */
 }
