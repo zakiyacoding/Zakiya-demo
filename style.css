@@ -13,7 +13,7 @@ Default: 1
 
 - Primary: #e67e22
 - Tints: #fae5d3
-- Shades:
+- Shades: #cf711f
 - Accents: 
 - Greys
 #555
@@ -153,6 +153,6 @@ body {
 }
 
 .delivered-text span {
-  color: #e67e22;
+  color: #cf711f;
   font-weight: 700;
 }
