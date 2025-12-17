@@ -131,6 +131,11 @@
   margin-bottom: 1.2rem;
 }
 
+.step-description {
+  font-size: 1.8rem;
+  line-height: 1.8;
+}
+
 .step-img {
-  width: 50%;
+  width: 30%;
 }
