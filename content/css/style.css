@@ -117,6 +117,17 @@
 }
 
 /**********************************/
+/* FEATURED IN SECTION */
+/**********************************/
+
+.heading-featured-in {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.75px;
+  font-weight: 500;
+}
+
+/**********************************/
 /* HOW IT WORKS SECTION */
 /**********************************/
 
