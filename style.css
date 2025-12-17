@@ -12,7 +12,12 @@ Semi-bold: 600
 - Line heights
 Default: 1
 Small: 1.05
+Medium: 1.2
 Paragraph default: 1.6
+
+- Latter spacing
+-0.5px
+0.75px
 
 --- 02 COLORS
 
@@ -101,6 +106,7 @@ body {
 .heading-secondary {
   font-size: 4.4rem;
   line-height: 1.2;
+  margin-bottom: 9.6rem;
 }
 
 .subheading {
@@ -110,6 +116,7 @@ body {
   color: #cf711f;
   text-transform: uppercase;
   margin-bottom: 1.6rem;
+  letter-spacing: 0.75px;
 }
 
 .btn:link,
@@ -280,6 +287,12 @@ body {
 
 .section-how {
   padding: 9.6rem 0;
+}
+
+.step-number {
+  font-size: 9.8rem;
+  font-weight: 600;
+  color: #eee;
 }
 
 .step-img {
