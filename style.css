@@ -109,6 +109,9 @@ body {
   margin-bottom: 9.6rem;
 }
 
+.heading-tertiary {
+}
+
 .subheading {
   display: block;
   font-size: 1.6rem;
@@ -290,9 +293,10 @@ body {
 }
 
 .step-number {
-  font-size: 9.8rem;
+  font-size: 8.6rem;
   font-weight: 600;
-  color: #eee;
+  color: #ddd;
+  margin-bottom: 1.2rem;
 }
 
 .step-img {
