@@ -124,6 +124,14 @@
   padding: 4.8rem 0 3.2rem 0;
 }
 
+.meal {
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.1);
+}
+
+.meal-tags {
+  margin-bottom: 1.2rem;
+}
+
 .heading-featured-in {
   font-size: 1.4rem;
   text-transform: uppercase;
@@ -215,6 +223,16 @@
   padding: 9.6rem 0;
 }
 
+.tag {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  background-color: #51cf66;
+  color: #333;
+  border-radius: 100px;
+}
+
 .meal-title {
   font-size: 2.4rem;
   color: #333;
@@ -229,16 +247,23 @@
   gap: 2rem;
 }
 
-.meal-attributes {
+.meal-attribute {
   font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
 }
 
 .meal-icon {
   height: 2.4rem;
   width: 2.4rem;
-  stroke: #e67e22;
+  color: #e67e22;
 }
 
 .meal-img {
   width: 100%;
+}
+
+strong {
+  font-weight: 500;
 }
