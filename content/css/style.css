@@ -385,3 +385,11 @@
 .gallery-item img:hover {
   transform: scale(1.1);
 }
+
+/**********************************/
+/* MEALS SECTION */
+/**********************************/
+
+.section-meals {
+  padding: 9.6rem 0;
+}
