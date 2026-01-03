@@ -374,9 +374,12 @@
   padding: 9.6rem 0;
 }
 
+.plan-header {
+  text-align: center;
+}
 .plan-name {
 }
-.paln-price {
+.plan-price {
 }
 .plan-text {
 }
