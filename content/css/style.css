@@ -354,6 +354,7 @@
 
 .gallery-item {
   overflow: hidden;
+  border-radius: 11px;
 }
 
 .gallery-item img {
