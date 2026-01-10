@@ -392,6 +392,7 @@
 }
 
 .princing-plan--complete::after {
+  content: "Best value";
 }
 
 .plan-header {
