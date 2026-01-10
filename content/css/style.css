@@ -393,6 +393,7 @@
 
 .princing-plan--complete::after {
   content: "Best value";
+  position: absolute;
 }
 
 .plan-header {
