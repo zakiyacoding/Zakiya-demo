@@ -383,6 +383,7 @@
 .princing-plan--starter {
   justify-self: end;
   border: 2px solid #fdf2e9;
+  padding: 4.6;
 }
 
 .princing-plan--complete {
