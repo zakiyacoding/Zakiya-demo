@@ -376,7 +376,6 @@
 }
 
 .princing-plan {
-  background-color: #fdf2e9;
   border-radius: 11px;
   padding: 4.8rem;
   width: 75%;
@@ -386,6 +385,9 @@
   justify-self: end;
 }
 
+.princing-plan--complete {
+  background-color: #fdf2e9;
+}
 .plan-header {
   text-align: center;
   margin-bottom: 4.8rem;
