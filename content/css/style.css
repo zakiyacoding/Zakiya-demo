@@ -481,4 +481,5 @@
 }
 
 .cta {
+  display: grid;
 }
