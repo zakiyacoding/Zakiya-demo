@@ -497,7 +497,8 @@
 }
 
 .cta-img-box {
-  background-image: url("../img/eating.jpg");
+  background-image:
+    linear-gradient(to right bottom, #eb984e, #e67e22), url("../img/eating.jpg");
   background-size: cover;
   background-position: center;
 }
