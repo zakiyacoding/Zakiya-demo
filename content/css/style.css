@@ -532,6 +532,7 @@
 .cta-form label {
   display: block;
   font-size: 1.6rem;
+  font-weight: 500;
 }
 .cta-form input {
 }
