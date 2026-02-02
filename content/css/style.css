@@ -539,6 +539,7 @@
   width: 100%;
   padding: 1.2rem;
   font-size: 1.8rem;
+  font-family: inherit;
 }
 .cta-form select {
 }
