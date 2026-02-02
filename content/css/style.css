@@ -533,7 +533,7 @@
   display: block;
   font-size: 1.6rem;
   font-weight: 500;
-  margin-bottom: 1.2rem;
+  font-family: inherit;
 }
 .cta-form input {
 }
