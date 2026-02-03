@@ -501,6 +501,7 @@
 
 .cta .heading-secondary {
   /* color: #45260a; */
+  color: inherit;
   margin-bottom: 3.2rem;
 }
 
