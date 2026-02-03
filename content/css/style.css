@@ -543,6 +543,7 @@
   font-family: inherit;
   border: none;
   background-color: #fdf2e9;
+  border-radius: 9px;
 }
 .cta-form select {
 }
