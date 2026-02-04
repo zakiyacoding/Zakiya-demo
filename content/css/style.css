@@ -536,7 +536,8 @@
   font-weight: 500;
   margin-bottom: 1.2rem;
 }
-.cta-form input {
+.cta-form input,
+.cta-form select {
   width: 100%;
   padding: 1.2rem;
   font-size: 1.8rem;
