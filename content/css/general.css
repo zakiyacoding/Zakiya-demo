@@ -164,6 +164,7 @@ body {
   /* Only necessary for .btn */
   border: none;
   cursor: pointer;
+  font-family: inherit;
 
   /* Put transition on original "state" */
   /* transition: background-color 0.3s; */
