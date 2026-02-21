@@ -205,6 +205,10 @@ body {
   padding: 1.2rem;
 }
 
+.btn--form {
+  background-color: #fff;
+}
+
 .link:link,
 .link:visited {
   display: inline-block;
