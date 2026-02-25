@@ -205,7 +205,10 @@ body {
   padding: 1.2rem;
 }
 
-.btn--form:hover,
+.btn--form:hover {
+  background-color: #fff;
+  color: #555;
+}
 .link:link,
 .link:visited {
   display: inline-block;
