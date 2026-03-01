@@ -239,6 +239,9 @@ body {
   gap: 1.6rem;
 }
 
+*:focus {
+}
+
 .list-icon {
   width: 3rem;
   height: 3rem;
