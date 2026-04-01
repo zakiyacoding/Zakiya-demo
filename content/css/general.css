@@ -242,7 +242,7 @@ body {
 *:focus {
   outline: none;
   outline: 4px dotted #e67e22;
-  outline-offset:;
+  outline-offset: 8px;
 }
 
 .list-icon {
