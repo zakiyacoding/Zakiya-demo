@@ -240,6 +240,7 @@ body {
 }
 
 *:focus {
+  outline: none;
 }
 
 .list-icon {
