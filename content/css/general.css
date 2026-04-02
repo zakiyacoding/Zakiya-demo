@@ -252,6 +252,7 @@ body {
 }
 
 *:focus {
+  outline: none;
 }
 
 /*HELPER/SETTING CLASSES */
