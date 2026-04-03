@@ -254,6 +254,7 @@ body {
 
 *:focus {
   outline: none;
+  outline: 4px dotted #e67e22;
 }
 
 /*HELPER/SETTING CLASSES */
