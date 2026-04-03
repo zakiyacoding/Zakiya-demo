@@ -209,6 +209,11 @@ body {
   background-color: #fff;
   color: #555;
 }
+
+.btn--form {
+  background-color: #fff;
+}
+
 .link:link,
 .link:visited {
   display: inline-block;
