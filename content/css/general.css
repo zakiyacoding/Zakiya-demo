@@ -240,12 +240,6 @@ body {
   gap: 1.6rem;
 }
 
-*:focus {
-  outline: none;
-  outline: 4px dotted #e67e22;
-  outline-offset: 8px;
-}
-
 .list-icon {
   width: 3rem;
   height: 3rem;
