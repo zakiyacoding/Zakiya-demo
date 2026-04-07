@@ -253,6 +253,9 @@ body {
   box-shadow: 0 0 0 0.8rem #e67e22;
 }
 
+*:focus {
+}
+
 /*HELPER/SETTING CLASSES */
 
 .margin-right-sm {
