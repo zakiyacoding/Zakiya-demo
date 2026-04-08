@@ -549,3 +549,8 @@
 .cta-form input::placeholder {
   color: #aaa;
 }
+
+*:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.8rem rgba(230, 126, 34);
+}
