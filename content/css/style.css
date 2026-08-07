@@ -572,3 +572,8 @@
 .footer-nav {
   list-style: none;
 }
+
+.footer-link: link,
+.footer-link:visited {
+  text-decoration: none;
+}
