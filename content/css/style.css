@@ -571,6 +571,7 @@
 
 .footer-nav {
   list-style: none;
+  display: flex;
 }
 
 .footer-link:link,
