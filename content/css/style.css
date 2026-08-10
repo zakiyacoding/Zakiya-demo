@@ -579,3 +579,8 @@
   font-size: 1.6rem;
   color: #767676;
 }
+
+.footer-link:hover,
+.footer-link:active {
+  color: #555;
+}
