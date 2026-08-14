@@ -563,6 +563,11 @@
   padding: 9.6rem 0;
 }
 
+.logo-col {
+  display: flex;
+  flex-direction: column;
+}
+
 .social-links {
   list-style: none;
   display: flex;
