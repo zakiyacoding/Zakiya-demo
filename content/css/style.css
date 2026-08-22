@@ -565,7 +565,7 @@
 
 .logo-col {
   display: flex;
-  flex-direction: colomn;
+  flex-direction: column;
 }
 
 .footer-logo {
