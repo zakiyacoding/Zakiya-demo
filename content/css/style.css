@@ -597,6 +597,10 @@
   margin-bottom: 4rem;
 }
 
+.contacts {
+  font-style: normal;
+}
+
 .footer-nav {
   list-style: none;
   display: flex;
