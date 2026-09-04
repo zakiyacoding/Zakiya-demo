@@ -566,6 +566,7 @@
 .grid--footer {
   grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
 }
+
 .logo-col {
   display: flex;
   flex-direction: column;
@@ -608,6 +609,7 @@
 
 .address {
   margin-bottom: 2.4rem;
+  font-size: 1.8rem;
 }
 
 .footer-nav {
